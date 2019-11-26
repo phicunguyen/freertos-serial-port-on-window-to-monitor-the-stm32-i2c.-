@@ -1,0 +1,5 @@
+i2c_monitor.c:37:13:i2c_mon_sda	0	static
+i2c_monitor.c:43:13:i2c_mon_scl	0	static
+i2c_monitor.c:66:13:s_hex2ascii	0	static
+i2c_monitor.c:94:13:i2c_interrupt_monitor	16	static
+i2c_monitor.c:158:6:i2c_mon_create	0	static
